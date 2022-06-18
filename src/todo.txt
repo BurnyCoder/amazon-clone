@@ -1,0 +1,1 @@
+proc z index nejde do childs, zkusit na vanilla projektu 
