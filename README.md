@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+Amazon clone.
+You can browse and buy items with user authentication.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
