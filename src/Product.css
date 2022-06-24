@@ -1,4 +1,4 @@
-.checkoutProduct {
+.product {
   display: flex;
   flex-direction: column;
 
@@ -14,18 +14,18 @@
   z-index: 1;
 }
 
-.checkoutProduct__rating {
+.product__rating {
   display: flex;
 }
 
-.checkoutProduct > img {
+.product > img {
   max-height: 200px;
   width: 100%;
   object-fit: contain;
   margin-bottom: 15px;
 }
 
-.checkoutProduct > button {
+.product > button {
   background: #f0c14b;
   border: 1px solid;
   margin-top: 10px;
@@ -33,11 +33,11 @@
   color: #111;
 }
 
-.checkoutProduct__price {
+.product__price {
   margin-top: 5px;
 }
 
-.checkoutProduct__info {
+.product__info {
   height: 100px;
   margin-bottom: 15px;
 }
