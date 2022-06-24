@@ -1,5 +1,5 @@
 Amazon clone.
-You can browse and buy items with user authentication.
+You can browse and buy items with user authentication and credit card payment.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
